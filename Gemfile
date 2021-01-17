@@ -3,7 +3,7 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/M-Morgane/m-morgane.github.io" }
 
 # gem "jekyll", "~> 3.8.4"
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 209", group: :jekyll_plugins
 
 group :jekyll_plugins do
     gem "jekyll-menus", "~> 0.6.0"
