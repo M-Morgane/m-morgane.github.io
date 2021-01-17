@@ -13,8 +13,9 @@ layout: body
   </header><!--.page-header -->
 
   <div class="portfolio-feed layout-{{ page.layout_style }}">
-    {% assign display_projects = '/portfolio' | get_pages | sort: 'date' | reverse %}
+    {% assign display_projects = site.pages | sort: 'date' | reverse %}
     {% for post in display_projects %}
+    {% if post.url contains "/portfolio" %}
     <article class="project">
       <a href="{{ post.url | relative_url }}" class="project-link">
         {% assign thumb_image_is_not_empty = post.thumb_image | is_not_empty %}
@@ -28,6 +29,7 @@ layout: body
         </header>
       </a>
     </article><!-- .project -->
+    {% endif %}
     {% endfor %}
   </div><!-- .portfolio-feed -->
 
