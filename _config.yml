@@ -20,12 +20,12 @@ header:
     # - label: Blog
     #   url: /blog/
     #   style: link
-    - label: About
+    - label: Contact
       url: /about/
       style: link
-    - label: Contact
-      url: /contact/
-      style: link
+    # - label: Contact
+    #   url: /contact/
+    #   style: link
 footer:
   content: >-
     &copy; Morgane Maurel 2021. All rights reserved.
