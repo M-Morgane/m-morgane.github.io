@@ -2,7 +2,7 @@
 title: Le Loup
 subtitle: Court-métrage
 date: '2021-01-10'
-thumb_image: images\Le-Loup\leloup_thumb.jpg
+thumb_image: /images/Le-Loup/leloup_thumb.jpg
 thumb_image_alt: 'Le Loup'
 image:
 image_alt: 'Le Loup'
