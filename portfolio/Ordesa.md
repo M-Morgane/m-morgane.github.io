@@ -2,7 +2,7 @@
 title: Ørdesa
 subtitle: Fiction interactive
 date: '2020-11-08'
-thumb_image: images\Ordesa\00_ordesa.jpg
+thumb_image: images/Ordesa/00_ordesa.jpg
 thumb_image_alt: Ørdesa
 image: 
 image_alt: 

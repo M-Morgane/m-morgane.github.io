@@ -2,7 +2,7 @@
 title: Shoegazing
 subtitle: Court-métrage
 date: '2020-08-10'
-thumb_image: images\Shoegazing\BAB.00_20_17_19.Still029.png
+thumb_image: /images/Shoegazing/BAB.00_20_17_19.Still029.png
 thumb_image_alt: 'Shoegazing'
 image:
 image_alt: 'Shoegazing'
