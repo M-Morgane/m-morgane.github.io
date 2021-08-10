@@ -19,8 +19,11 @@ NICOLAS PELLOILLE-OUDART et FRÉDÉRIC JAMAIN <br>
 Avec <br>
 MÉLISSA GUERS et CARLO BRANDT
 
+écrit par <br>
+NICOLAS PELLOILLE-OUDART et NICOLAS PEUFAILLIT
+
 ![](/images\Ordesa\05_ordesa.jpg)
 
 ![](/images\Ordesa\04_ordesa.jpg)
 
-![](/images\Ordesa\04_ordesa.jpg)
+![](/images\Ordesa\06_ordesa.jpg)

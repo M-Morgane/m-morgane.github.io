@@ -13,6 +13,13 @@ layout: project
 
 <br>
 Fiction <br>
-Servane d'Alverny <br>
+SERVANE D'ALVERNY <br>
 **London Film School** <br>
-2020 <br>
+2020 <br> 
+
+Avec <br>
+AURORE STREICH
+
+![](/images\Shoegazing\BAB.00_22_05_23.Still031.png)
+
+![](/images\Shoegazing\BAB.00_24_09_06.Still033.png)
