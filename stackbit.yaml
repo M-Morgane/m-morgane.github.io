@@ -255,7 +255,7 @@ models:
     layout: portfolio
     file: portfolio/index.md
     hideContent: true
-    singleInstance: true
+    singleInstance: false
     fields:
       - type: string
         name: title

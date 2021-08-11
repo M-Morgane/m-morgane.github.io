@@ -10,7 +10,6 @@ layout: project
 ---
 
 ![](/images\The-Belt\Belt03.png)
-
 <br>
 Fiction <br>
 TOBY ANDRIS <br>

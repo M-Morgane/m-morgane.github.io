@@ -10,7 +10,6 @@ layout: project
 ---
 
 ![](/images\Betty\Betty05bis.png)
-
 <br>
 Fiction <br>
 JULIEN LESSI <br>
@@ -19,6 +18,8 @@ JULIEN LESSI <br>
 
 Avec <br>
 AURÉLIA PETIT / DANIEL DELABESSE / FRÉDÉRIC ANDRAU / LISON PINET
+
+Co-montage avec Yorgos Lamprinos.
 
 ![](/images\Betty\Betty03bis.png)
 

@@ -10,7 +10,6 @@ layout: project
 ---
 
 ![](/images\A3N\A3N_03.jpg)
-
 <br>
 Fiction <br>
 MINNA PRADER <br>

@@ -1,29 +1,26 @@
 ---
-title: Ørdesa
-subtitle: Fiction interactive
-date: '2020-11-08'
-thumb_image: images/Ordesa/00_ordesa.jpg
-thumb_image_alt: Ørdesa
+title: La meute
+subtitle: Court-métrage
+date: '2019-11-08'
+thumb_image: images/La-meute/MEUTE-02bis.png
+thumb_image_alt: La meute
 image: 
 image_alt: 
 layout: project
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gBxRM0ZSIfA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](/images\La-meute\MEUTE-02.png)
 <br>
-Fiction interactive / Jeu vidéo <br>
-NICOLAS PELLOILLE-OUDART et FRÉDÉRIC JAMAIN <br>
-**Cineteve Experience / Arte** <br>
-2020 <br>
+Fiction <br>
+JEAN-MARIE BONNY NKOA <br>
+**La Fémis / La résidence** <br>
+2019 <br>
 
 Avec <br>
-MÉLISSA GUERS et CARLO BRANDT
+THOMAS MILLOT / FABRICE CARLIER / ANNE-HÉLÈNE ORVELIN / ROXANE LEBRUN
 
-écrit par <br>
-NICOLAS PELLOILLE-OUDART et NICOLAS PEUFAILLIT
+![](/images\La-meute\MEUTE-01.png)
 
-![](/images\Ordesa\05_ordesa.jpg)
+![](/images\La-meute\MEUTE-05.png)
 
-![](/images\Ordesa\04_ordesa.jpg)
-
-![](/images\Ordesa\06_ordesa.jpg)
+![](/images\La-meute\MEUTE-06.png)

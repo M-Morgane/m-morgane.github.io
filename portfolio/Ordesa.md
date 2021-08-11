@@ -10,7 +10,6 @@ layout: project
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gBxRM0ZSIfA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
 Fiction interactive / Jeu vidéo <br>
 NICOLAS PELLOILLE-OUDART et FRÉDÉRIC JAMAIN <br>
 **Cineteve Experience / Arte** <br>
@@ -21,6 +20,8 @@ MÉLISSA GUERS et CARLO BRANDT
 
 écrit par <br>
 NICOLAS PELLOILLE-OUDART et NICOLAS PEUFAILLIT
+
+Prix du meilleur jeu mobile aux Pégases 2021.
 
 ![](/images\Ordesa\05_ordesa.jpg)
 

@@ -6,12 +6,11 @@ image_alt:
 layout: page
 ---
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+>I don't want to tell you how to do your job, but somebody has to."
+- David Fincher
 
-Rencontrons nous!
-
-<span class="icon fab fa-envelope" aria-hidden="true"> <mmaurel@orange.fr> <br>
-<span class="icon fab fa-linkedin" aria-hidden="true"> [Linkedin](https://www.linkedin.com/in/morganemaurel)
+<span class="icon fab fa-google" aria-hidden="true"> <morgane.maurel9@gmail.com></span><br> 
+<span class="icon fab fa-linkedin" aria-hidden="true"> [Linkedin](https://www.linkedin.com/in/morganemaurel)</span>
 
 
 

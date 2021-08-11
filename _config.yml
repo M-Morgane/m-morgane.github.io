@@ -17,6 +17,9 @@ header:
     - label: Films
       url: /portfolio/
       style: button
+    - label: Pub/Clips
+      url: /autres/
+      style: button
     # - label: Blog
     #   url: /blog/
     #   style: link
