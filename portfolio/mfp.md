@@ -2,13 +2,14 @@
 title: Music for Peace
 subtitle: Documentaire
 date: '2018-05-10'
-thumb_image: /images/mfp/mfp01.png
+thumb_image: /images\shoegazing\BAB.00_19_18_10.Still074.png
 thumb_image_alt: 'Music for Peace'
 image:
 image_alt: 'Music for Peace'
 layout: project
 ---
 
+![](/images\shoegazing\BAB.00_19_18_10.Still074.png)
 ![](/images\mfp\mfp01.png)
 <br>
 Documentaire <br>
