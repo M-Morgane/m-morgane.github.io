@@ -1,5 +1,5 @@
 ---
-title: ROGE CAVAILLES
+title: ROGE CAVAILLES "Régénération pour la vie"
 subtitle: Publicité
 date: '2021-05-08'
 thumb_image: images/PUB/CAVAILLES01.jpg
