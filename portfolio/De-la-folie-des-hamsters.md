@@ -2,7 +2,7 @@
 title: De la folie des hamsters
 subtitle: Court-métrage
 date: '2022-01-10'
-thumb_image: /images\DLFDH\dlfh08.png
+thumb_image: images/DLFDH/dlfh08.png
 thumb_image_alt: 'De la folie des hamsters'
 image:
 image_alt: 'De la folie des hamsters'

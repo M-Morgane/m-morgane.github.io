@@ -2,7 +2,7 @@
 title: In Festa
 subtitle: Court-métrage
 date: '2021-12-10'
-thumb_image: /images\infesta\infesta12.png
+thumb_image: images/infesta/infesta12.png
 thumb_image_alt: 'In Festa'
 image:
 image_alt: 'In Festa'
