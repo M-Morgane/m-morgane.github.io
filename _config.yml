@@ -73,3 +73,5 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+
+theme: jekyll-theme-slate
