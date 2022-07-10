@@ -16,6 +16,9 @@ Hélène GIUDICELLI <br>
 **VENTS CONTRAIRES** <br>
 2022 <br> 
 
+Avec <br>
+SERENA BOZZI / ELIAN VENTRE PANTALACCI / DANIEL DI GRAZIA
+
 
 
 ![](/images\infesta\infesta05.png)
