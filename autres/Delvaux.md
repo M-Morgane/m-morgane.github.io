@@ -1,11 +1,11 @@
 ---
-title: Delvaux - Canvas Story
+title: DELVAUX "Canvas Story"
 subtitle: Clip
 date: '2022-03-01'
 thumb_image: images/Delvaux/Delvaux01.png
-thumb_image_alt: 'Delvaux - Canvas Story'
+thumb_image_alt: 'Delvaux "Canvas Story"'
 image: 
-image_alt: 'Delvaux - Canvas Story'
+image_alt: 'Delvaux "Canvas Story"'
 layout: project
 ---
 

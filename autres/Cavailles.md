@@ -1,7 +1,7 @@
 ---
 title: ROGE CAVAILLES "Régénération pour la vie"
 subtitle: Publicité
-date: '2021-05-08'
+date: '2021-12-08'
 thumb_image: images/PUB/CAVAILLES01.jpg
 thumb_image_alt: 'Roger Cavailles TV Spot'
 image: 

@@ -1,7 +1,7 @@
 ---
 title: CLARINS "Lift & Curl"
 subtitle: Publicité
-date: '2021-04-08'
+date: '2020-04-08'
 thumb_image: images/PUB/Clarins02.jpg
 thumb_image_alt: 'CLARINS Lift & Curl'
 image: 
