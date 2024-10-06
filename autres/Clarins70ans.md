@@ -3,9 +3,9 @@ title: Clarins "70 ans d'innovation"
 subtitle: Publicité
 date: '2023-05-08'
 thumb_image: images/PUB/Clarins70ans01.png
-thumb_image_alt: 'Clarins "70 ans d'innovation"'
+thumb_image_alt: 'Clarins "70 ans"'
 image: 
-image_alt: 'Clarins "70 ans d'innovation"'
+image_alt: 'Clarins "70 ans"'
 layout: project
 ---
 
