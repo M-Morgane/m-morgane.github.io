@@ -12,6 +12,5 @@ layout: project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9A5sYz5G_mc?si=1G9FEdbaUOMoWNXF&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
-Web content <br>
 **Mercenary** <br>
 2024 <br>

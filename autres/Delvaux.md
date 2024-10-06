@@ -8,8 +8,10 @@ image:
 image_alt: 'Delvaux "Canvas Story"'
 layout: project
 ---
+![](/images\Delvaux\Delvaux02.png)
 
-<iframe width="882" height="496" src="https://www.youtube.com/embed/ylFW5xg1N3M" title="Delvaux | CANVAS STORY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](/images\Delvaux\Delvaux03.png)
+
 Clip <br>
 Quentin Saunier <br>
 **Mercenary Production** <br>
