@@ -12,7 +12,7 @@ layout: project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/17TYU9P0yNA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
-Réalisation: Grégoire Dyer <br>
 Publicité <br>
+Grégoire Dyer <br> 
 **Onirim** <br>
 2022 <br>
