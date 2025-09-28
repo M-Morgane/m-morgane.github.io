@@ -13,5 +13,6 @@ layout: project
 
 <br>
 Publicité <br>
+Nicolas Kantor <br>
 **Onirim** <br>
 2023 <br>

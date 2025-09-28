@@ -13,5 +13,5 @@ layout: project
 
 <br>
 Making of the Dior Autumn Winter 2023-2024 Haute Couture Show <br>
-**PanPan** <br>
+**PanPan Procduction** <br>
 2023 <br>

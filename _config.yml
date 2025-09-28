@@ -31,7 +31,7 @@ header:
     #   style: link
 footer:
   content: >-
-    &copy; Morgane Maurel 2021. All rights reserved.
+    &copy; Morgane Maurel 2025. All rights reserved.
   has_social: true
   social_links:
     # - label: Twitter
@@ -44,11 +44,6 @@ footer:
     #   style: icon
     #   icon_class: fa-dribbble
     #   new_window: true
-    - label: Facebook
-      url: 'https://www.facebook.com/profile.php?id=100012547476174'
-      style: icon
-      icon_class: fa-facebook
-      new_window: true
     - label: LinkedIn
       url: 'https://www.linkedin.com/in/morganemaurel'
       style: icon

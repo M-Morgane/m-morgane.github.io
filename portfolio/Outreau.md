@@ -1,6 +1,6 @@
 ---
 title: L'affaire d'Outreau
-subtitle: Série documentaire
+subtitle: Série documentaire 4x52min
 date: '2023-01-10'
 thumb_image: images/Outreau/Outreau01.jpg
 thumb_image_alt: L'affaire d'Outreau
@@ -14,5 +14,5 @@ layout: project
 Documentaire <br>
 4x52min <br>
 Agnès Pizzini et Olivier Ayache-Vidal <br>
-**Point du Jour / France Télévision** <br>
+**Point du Jour - Les Films du Balibari / France Télévision** <br>
 2023 <br> 

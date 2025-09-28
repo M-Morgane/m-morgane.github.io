@@ -13,7 +13,7 @@ layout: project
 <br>
 Court-métrage <br>
 Aurélia Raoull <br>
-**Bobi Lux** <br>
+**Bobi Lux / Capricci** <br>
 2023 <br> 
 <br>
 Avec <br>
