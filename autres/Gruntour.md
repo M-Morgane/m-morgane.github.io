@@ -14,6 +14,6 @@ Série de reportages sur le rap en Afrique.
 
 <br>
 Série de réportages 3x26min <br>
-Quentin Coulon, Jean Morel
+Quentin Coulon, Jean Morel <br>
 **Grünt** <br>
 2020 <br>

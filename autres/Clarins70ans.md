@@ -12,7 +12,7 @@ layout: project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ho0ssN5dmL4?si=XItmo1IetZx_25fm&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
-Réalisation: Thomas Lachambre
 Publicité <br>
+Thomas Lachambre <br>
 **Onirim** <br>
-2023 <br>
+2024 <br>

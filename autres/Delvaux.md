@@ -12,6 +12,7 @@ layout: project
 
 ![](/images\Delvaux\Delvaux03.png)
 
+<br>
 Clip <br>
 Quentin Saunier <br>
 **Mercenary Production** <br>
