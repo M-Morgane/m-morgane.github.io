@@ -9,7 +9,7 @@ image_alt:
 layout: project
 ---
 Série documentaire sur l'histoire de la danse électro. <br>
-**Diffusion sur ARTE début 2026**
+**Diffusion sur ARTE Juin 2026**
 <br>
 
 

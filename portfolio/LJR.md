@@ -20,7 +20,6 @@ Court-métrage <br>
 Minna Prader <br>
 **Vega Film** <br>
 2025 <br> 
-**En cours de post-production** <br>
 <br>
 Avec <br>
 SUZANNE DE BAECQUE / TALIN RONER / JEREMY LEWIN

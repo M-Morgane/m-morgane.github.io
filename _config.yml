@@ -31,7 +31,7 @@ header:
     #   style: link
 footer:
   content: >-
-    &copy; Morgane Maurel 2025. All rights reserved.
+    &copy; Morgane Maurel 2026. All rights reserved.
   has_social: true
   social_links:
     # - label: Twitter
@@ -68,5 +68,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-
-theme: jekyll-theme-slate

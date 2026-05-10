@@ -2,8 +2,10 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-# gem "jekyll", "~> 3.8.4"
-gem "github-pages"
+gem "jekyll", "~> 3.8.4"
+gem "csv", "~> 3.1"
+gem "base64", "~> 0.1"
+gem "bigdecimal", "~> 4.1.2"
 
 group :jekyll_plugins do
     gem "jekyll-menus", "~> 0.6.0"
@@ -11,5 +13,4 @@ group :jekyll_plugins do
     gem "jekyll-paginate", "~> 1.1"
 end
 
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
