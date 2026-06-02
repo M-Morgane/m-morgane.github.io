@@ -8,14 +8,16 @@ image:
 image_alt: 'De la folie des hamsters'
 layout: project
 ---
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/712321055?h=4b25e5a4d1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+![](/images\DLFDH\dlfh01.png) <br>
+[VOIR LE FILM](http://www.grec-info.com/fiche_film.php?id_film=1852)
 <br>
+
 Fiction <br>
 Juliette Marrécau <br>
 **Le GREC** <br>
 2022 <br> 
-Compétition internationale au festival de Brive 2022. <br>
+**Compétition internationale au festival de Brive 2022** <br>
+**Sélection CESARS 2024** <br>
 
 Avec <br>
 ANAËLLE FOURNIER / JULIETTE SAVARY / ANIS MANSOUR
